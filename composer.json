@@ -1,5 +1,5 @@
 {
-    "name": "bip70/bip70",
+    "name": "xiaowanggongzuoshi/bip70",
     "description": "Bitcoin payment requests (BIP70) toolkit for PHP",
     "type": "library",
     "keywords": ["bitcoin", "btc", "bip70", "payment", "request"],
